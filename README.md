@@ -15,4 +15,5 @@ Funciona como primer acercamiento a modelos de lenguaje para clasificación de s
 Descripción de carpetas.
 
 ## Instalación
-Para ejecutar el notebook, acceder a Google Colab y abrir el archivo directamente desde GitHub.
+Para ejecutar el notebook, acceder a Google Colab: File/Open Notebook/GitHub/ en usuario buscar kevintrivino y abri el repositorio kevintrivino/LLMs_fundacionales
+
